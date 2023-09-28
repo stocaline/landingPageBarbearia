@@ -34,6 +34,7 @@ i {
   align-items: center;
   justify-content: center;
   margin-top: 14px;
+  width: 100px;
 }
 
 .header-button {
@@ -246,6 +247,10 @@ i {
   padding: 54px 0;
   gap: 24px;
   color: #fff;
+}
+
+.footer img {
+  width: 200px;
 }
 
 .footer-icons {
